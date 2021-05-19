@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: mxd84-pkg
+Version: 0.0.dev1
+Summary: A personal package
+Home-page: https://github.com/DaniMX125/MxD84
+Author: Messa Daniele
+Author-email: messadaniele@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/DaniMX125/MxD84/issues
+Description: # MxD84
+        
+        My personal package.
+        
+        ---
+        
+        ## Installation
+        
+        ## Usage
+        
+        
+        ## License
+        [MIT](https://choosealicense.com/licenses/mit/)
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

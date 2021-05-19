@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/mxd84-pkg/__init__.py
+src/mxd84-pkg/utilities/__init__.py
+src/mxd84-pkg/utilities/utility.py
+src/mxd84_pkg.egg-info/PKG-INFO
+src/mxd84_pkg.egg-info/SOURCES.txt
+src/mxd84_pkg.egg-info/dependency_links.txt
+src/mxd84_pkg.egg-info/top_level.txt
